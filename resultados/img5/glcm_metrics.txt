@@ -1,0 +1,6 @@
+===== MÉTRICAS DE TEXTURA (GLCM) =====
+Contraste: 1.0767
+Homogeneidad: 0.8916
+Energía: 0.1649
+Correlación: 0.9994
+========================================
