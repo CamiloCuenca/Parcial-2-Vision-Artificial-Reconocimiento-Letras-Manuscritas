@@ -1,8 +1,8 @@
-=== Métricas de contornos - img2 ===
-Número de contornos encontrados: 1
+=== MÃ©tricas de contornos - img2 ===
+NÃºmero de contornos encontrados: 1
 
 Contorno 1:
-  - Área: 2608.50 px²
-  - Perímetro: 627.37 px
+  - Ãrea: 2608.50 pxÂ²
+  - PerÃ­metro: 627.37 px
   - Centroide: (58, 52)
 

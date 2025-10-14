@@ -1,0 +1,13 @@
+=== Métricas de contornos - img8 ===
+Número de contornos encontrados: 2
+
+Contorno 1:
+  - Área: 2851.00 px²
+  - Perímetro: 547.79 px
+  - Centroide: (33, 55)
+
+Contorno 2:
+  - Área: 6506.00 px²
+  - Perímetro: 468.19 px
+  - Centroide: (176, 66)
+

@@ -1,8 +1,8 @@
-=== Métricas de contornos - img5 ===
-Número de contornos encontrados: 1
+=== MÃ©tricas de contornos - img5 ===
+NÃºmero de contornos encontrados: 1
 
 Contorno 1:
-  - Área: 115049.00 px²
-  - Perímetro: 2823.07 px
+  - Ãrea: 115049.00 pxÂ²
+  - PerÃ­metro: 2823.07 px
   - Centroide: (722, 697)
 

@@ -1,1148 +1,1148 @@
-=== Métricas de contornos - img4 ===
-Número de contornos encontrados: 229
+=== MÃ©tricas de contornos - img4 ===
+NÃºmero de contornos encontrados: 229
 
 Contorno 1:
-  - Área: 15.00 px²
-  - Perímetro: 25.66 px
+  - Ãrea: 15.00 pxÂ²
+  - PerÃ­metro: 25.66 px
   - Centroide: (45, 1128)
 
 Contorno 2:
-  - Área: 26.00 px²
-  - Perímetro: 40.49 px
+  - Ãrea: 26.00 pxÂ²
+  - PerÃ­metro: 40.49 px
   - Centroide: (639, 1127)
 
 Contorno 3:
-  - Área: 69.50 px²
-  - Perímetro: 35.56 px
+  - Ãrea: 69.50 pxÂ²
+  - PerÃ­metro: 35.56 px
   - Centroide: (775, 1124)
 
 Contorno 4:
-  - Área: 44.50 px²
-  - Perímetro: 57.70 px
+  - Ãrea: 44.50 pxÂ²
+  - PerÃ­metro: 57.70 px
   - Centroide: (322, 1124)
 
 Contorno 5:
-  - Área: 44.50 px²
-  - Perímetro: 29.07 px
+  - Ãrea: 44.50 pxÂ²
+  - PerÃ­metro: 29.07 px
   - Centroide: (1119, 1120)
 
 Contorno 6:
-  - Área: 92.50 px²
-  - Perímetro: 37.56 px
+  - Ãrea: 92.50 pxÂ²
+  - PerÃ­metro: 37.56 px
   - Centroide: (542, 1120)
 
 Contorno 7:
-  - Área: 15.00 px²
-  - Perímetro: 14.83 px
+  - Ãrea: 15.00 pxÂ²
+  - PerÃ­metro: 14.83 px
   - Centroide: (817, 1116)
 
 Contorno 8:
-  - Área: 92.50 px²
-  - Perímetro: 127.50 px
+  - Ãrea: 92.50 pxÂ²
+  - PerÃ­metro: 127.50 px
   - Centroide: (735, 1120)
 
 Contorno 9:
-  - Área: 91.00 px²
-  - Perímetro: 114.23 px
+  - Ãrea: 91.00 pxÂ²
+  - PerÃ­metro: 114.23 px
   - Centroide: (442, 1121)
 
 Contorno 10:
-  - Área: 54.50 px²
-  - Perímetro: 27.90 px
+  - Ãrea: 54.50 pxÂ²
+  - PerÃ­metro: 27.90 px
   - Centroide: (803, 1109)
 
 Contorno 11:
-  - Área: 268.00 px²
-  - Perímetro: 81.11 px
+  - Ãrea: 268.00 pxÂ²
+  - PerÃ­metro: 81.11 px
   - Centroide: (398, 1106)
 
 Contorno 12:
-  - Área: 183.50 px²
-  - Perímetro: 64.04 px
+  - Ãrea: 183.50 pxÂ²
+  - PerÃ­metro: 64.04 px
   - Centroide: (725, 1101)
 
 Contorno 13:
-  - Área: 41.00 px²
-  - Perímetro: 24.49 px
+  - Ãrea: 41.00 pxÂ²
+  - PerÃ­metro: 24.49 px
   - Centroide: (86, 1097)
 
 Contorno 14:
-  - Área: 225.50 px²
-  - Perímetro: 68.04 px
+  - Ãrea: 225.50 pxÂ²
+  - PerÃ­metro: 68.04 px
   - Centroide: (853, 1098)
 
 Contorno 15:
-  - Área: 31.50 px²
-  - Perímetro: 22.24 px
+  - Ãrea: 31.50 pxÂ²
+  - PerÃ­metro: 22.24 px
   - Centroide: (428, 1092)
 
 Contorno 16:
-  - Área: 21.50 px²
-  - Perímetro: 17.07 px
+  - Ãrea: 21.50 pxÂ²
+  - PerÃ­metro: 17.07 px
   - Centroide: (682, 1090)
 
 Contorno 17:
-  - Área: 116.50 px²
-  - Perímetro: 42.38 px
+  - Ãrea: 116.50 pxÂ²
+  - PerÃ­metro: 42.38 px
   - Centroide: (462, 1089)
 
 Contorno 18:
-  - Área: 440.00 px²
-  - Perímetro: 95.25 px
+  - Ãrea: 440.00 pxÂ²
+  - PerÃ­metro: 95.25 px
   - Centroide: (783, 1095)
 
 Contorno 19:
-  - Área: 22.00 px²
-  - Perímetro: 19.66 px
+  - Ãrea: 22.00 pxÂ²
+  - PerÃ­metro: 19.66 px
   - Centroide: (834, 1075)
 
 Contorno 20:
-  - Área: 43.50 px²
-  - Perímetro: 26.24 px
+  - Ãrea: 43.50 pxÂ²
+  - PerÃ­metro: 26.24 px
   - Centroide: (563, 1076)
 
 Contorno 21:
-  - Área: 81.50 px²
-  - Perímetro: 38.73 px
+  - Ãrea: 81.50 pxÂ²
+  - PerÃ­metro: 38.73 px
   - Centroide: (486, 1075)
 
 Contorno 22:
-  - Área: 361.00 px²
-  - Perímetro: 88.63 px
+  - Ãrea: 361.00 pxÂ²
+  - PerÃ­metro: 88.63 px
   - Centroide: (584, 1079)
 
 Contorno 23:
-  - Área: 402.50 px²
-  - Perímetro: 86.53 px
+  - Ãrea: 402.50 pxÂ²
+  - PerÃ­metro: 86.53 px
   - Centroide: (515, 1076)
 
 Contorno 24:
-  - Área: 138.00 px²
-  - Perímetro: 45.80 px
+  - Ãrea: 138.00 pxÂ²
+  - PerÃ­metro: 45.80 px
   - Centroide: (859, 1071)
 
 Contorno 25:
-  - Área: 121.50 px²
-  - Perímetro: 43.56 px
+  - Ãrea: 121.50 pxÂ²
+  - PerÃ­metro: 43.56 px
   - Centroide: (743, 1065)
 
 Contorno 26:
-  - Área: 16.00 px²
-  - Perímetro: 16.00 px
+  - Ãrea: 16.00 pxÂ²
+  - PerÃ­metro: 16.00 px
   - Centroide: (296, 1063)
 
 Contorno 27:
-  - Área: 500.50 px²
-  - Perímetro: 86.18 px
+  - Ãrea: 500.50 pxÂ²
+  - PerÃ­metro: 86.18 px
   - Centroide: (1122, 1072)
 
 Contorno 28:
-  - Área: 200.50 px²
-  - Perímetro: 62.18 px
+  - Ãrea: 200.50 pxÂ²
+  - PerÃ­metro: 62.18 px
   - Centroide: (191, 1062)
 
 Contorno 29:
-  - Área: 116.00 px²
-  - Perímetro: 44.63 px
+  - Ãrea: 116.00 pxÂ²
+  - PerÃ­metro: 44.63 px
   - Centroide: (467, 1058)
 
 Contorno 30:
-  - Área: 44.00 px²
-  - Perímetro: 25.66 px
+  - Ãrea: 44.00 pxÂ²
+  - PerÃ­metro: 25.66 px
   - Centroide: (347, 1054)
 
 Contorno 31:
-  - Área: 118.00 px²
-  - Perímetro: 47.80 px
+  - Ãrea: 118.00 pxÂ²
+  - PerÃ­metro: 47.80 px
   - Centroide: (815, 1054)
 
 Contorno 32:
-  - Área: 19.00 px²
-  - Perímetro: 16.83 px
+  - Ãrea: 19.00 pxÂ²
+  - PerÃ­metro: 16.83 px
   - Centroide: (371, 1048)
 
 Contorno 33:
-  - Área: 73.50 px²
-  - Perímetro: 33.90 px
+  - Ãrea: 73.50 pxÂ²
+  - PerÃ­metro: 33.90 px
   - Centroide: (232, 1043)
 
 Contorno 34:
-  - Área: 13.00 px²
-  - Perímetro: 14.83 px
+  - Ãrea: 13.00 pxÂ²
+  - PerÃ­metro: 14.83 px
   - Centroide: (809, 1038)
 
 Contorno 35:
-  - Área: 27.00 px²
-  - Perímetro: 21.66 px
+  - Ãrea: 27.00 pxÂ²
+  - PerÃ­metro: 21.66 px
   - Centroide: (618, 1038)
 
 Contorno 36:
-  - Área: 191.50 px²
-  - Perímetro: 60.04 px
+  - Ãrea: 191.50 pxÂ²
+  - PerÃ­metro: 60.04 px
   - Centroide: (557, 1040)
 
 Contorno 37:
-  - Área: 111.00 px²
-  - Perímetro: 43.31 px
+  - Ãrea: 111.00 pxÂ²
+  - PerÃ­metro: 43.31 px
   - Centroide: (908, 1037)
 
 Contorno 38:
-  - Área: 22.50 px²
-  - Perímetro: 18.24 px
+  - Ãrea: 22.50 pxÂ²
+  - PerÃ­metro: 18.24 px
   - Centroide: (428, 1032)
 
 Contorno 39:
-  - Área: 135.00 px²
-  - Perímetro: 59.80 px
+  - Ãrea: 135.00 pxÂ²
+  - PerÃ­metro: 59.80 px
   - Centroide: (779, 1032)
 
 Contorno 40:
-  - Área: 162.00 px²
-  - Perímetro: 55.31 px
+  - Ãrea: 162.00 pxÂ²
+  - PerÃ­metro: 55.31 px
   - Centroide: (943, 1031)
 
 Contorno 41:
-  - Área: 234.00 px²
-  - Perímetro: 65.46 px
+  - Ãrea: 234.00 pxÂ²
+  - PerÃ­metro: 65.46 px
   - Centroide: (204, 1028)
 
 Contorno 42:
-  - Área: 342.00 px²
-  - Perímetro: 107.25 px
+  - Ãrea: 342.00 pxÂ²
+  - PerÃ­metro: 107.25 px
   - Centroide: (456, 1033)
 
 Contorno 43:
-  - Área: 75.50 px²
-  - Perímetro: 33.90 px
+  - Ãrea: 75.50 pxÂ²
+  - PerÃ­metro: 33.90 px
   - Centroide: (375, 1017)
 
 Contorno 44:
-  - Área: 27.00 px²
-  - Perímetro: 20.83 px
+  - Ãrea: 27.00 pxÂ²
+  - PerÃ­metro: 20.83 px
   - Centroide: (475, 1015)
 
 Contorno 45:
-  - Área: 93.50 px²
-  - Perímetro: 38.38 px
+  - Ãrea: 93.50 pxÂ²
+  - PerÃ­metro: 38.38 px
   - Centroide: (52, 1017)
 
 Contorno 46:
-  - Área: 620.00 px²
-  - Perímetro: 110.43 px
+  - Ãrea: 620.00 pxÂ²
+  - PerÃ­metro: 110.43 px
   - Centroide: (684, 1027)
 
 Contorno 47:
-  - Área: 67.00 px²
-  - Perímetro: 36.97 px
+  - Ãrea: 67.00 pxÂ²
+  - PerÃ­metro: 36.97 px
   - Centroide: (393, 1002)
 
 Contorno 48:
-  - Área: 190.00 px²
-  - Perímetro: 55.80 px
+  - Ãrea: 190.00 pxÂ²
+  - PerÃ­metro: 55.80 px
   - Centroide: (746, 1000)
 
 Contorno 49:
-  - Área: 18.50 px²
-  - Perímetro: 16.24 px
+  - Ãrea: 18.50 pxÂ²
+  - PerÃ­metro: 16.24 px
   - Centroide: (832, 993)
 
 Contorno 50:
-  - Área: 19.00 px²
-  - Perímetro: 16.83 px
+  - Ãrea: 19.00 pxÂ²
+  - PerÃ­metro: 16.83 px
   - Centroide: (411, 992)
 
 Contorno 51:
-  - Área: 178.00 px²
-  - Perímetro: 58.28 px
+  - Ãrea: 178.00 pxÂ²
+  - PerÃ­metro: 58.28 px
   - Centroide: (360, 1000)
 
 Contorno 52:
-  - Área: 1325.50 px²
-  - Perímetro: 240.89 px
+  - Ãrea: 1325.50 pxÂ²
+  - PerÃ­metro: 240.89 px
   - Centroide: (561, 1000)
 
 Contorno 53:
-  - Área: 33.50 px²
-  - Perímetro: 22.24 px
+  - Ãrea: 33.50 pxÂ²
+  - PerÃ­metro: 22.24 px
   - Centroide: (764, 972)
 
 Contorno 54:
-  - Área: 257.00 px²
-  - Perímetro: 70.63 px
+  - Ãrea: 257.00 pxÂ²
+  - PerÃ­metro: 70.63 px
   - Centroide: (605, 971)
 
 Contorno 55:
-  - Área: 146.00 px²
-  - Perímetro: 46.97 px
+  - Ãrea: 146.00 pxÂ²
+  - PerÃ­metro: 46.97 px
   - Centroide: (643, 968)
 
 Contorno 56:
-  - Área: 9.00 px²
-  - Perímetro: 12.00 px
+  - Ãrea: 9.00 pxÂ²
+  - PerÃ­metro: 12.00 px
   - Centroide: (734, 959)
 
 Contorno 57:
-  - Área: 539.50 px²
-  - Perímetro: 108.18 px
+  - Ãrea: 539.50 pxÂ²
+  - PerÃ­metro: 108.18 px
   - Centroide: (836, 965)
 
 Contorno 58:
-  - Área: 43.00 px²
-  - Perímetro: 24.49 px
+  - Ãrea: 43.00 pxÂ²
+  - PerÃ­metro: 24.49 px
   - Centroide: (757, 950)
 
 Contorno 59:
-  - Área: 69.50 px²
-  - Perímetro: 31.90 px
+  - Ãrea: 69.50 pxÂ²
+  - PerÃ­metro: 31.90 px
   - Centroide: (642, 951)
 
 Contorno 60:
-  - Área: 152.00 px²
-  - Perímetro: 49.80 px
+  - Ãrea: 152.00 pxÂ²
+  - PerÃ­metro: 49.80 px
   - Centroide: (623, 950)
 
 Contorno 61:
-  - Área: 3525.50 px²
-  - Perímetro: 3862.92 px
+  - Ãrea: 3525.50 pxÂ²
+  - PerÃ­metro: 3862.92 px
   - Centroide: (822, 1007)
 
 Contorno 62:
-  - Área: 9.00 px²
-  - Perímetro: 12.00 px
+  - Ãrea: 9.00 pxÂ²
+  - PerÃ­metro: 12.00 px
   - Centroide: (394, 897)
 
 Contorno 63:
-  - Área: 36.00 px²
-  - Perímetro: 23.66 px
+  - Ãrea: 36.00 pxÂ²
+  - PerÃ­metro: 23.66 px
   - Centroide: (257, 885)
 
 Contorno 64:
-  - Área: 44.50 px²
-  - Perímetro: 26.24 px
+  - Ãrea: 44.50 pxÂ²
+  - PerÃ­metro: 26.24 px
   - Centroide: (473, 884)
 
 Contorno 65:
-  - Área: 71.50 px²
-  - Perímetro: 32.73 px
+  - Ãrea: 71.50 pxÂ²
+  - PerÃ­metro: 32.73 px
   - Centroide: (315, 884)
 
 Contorno 66:
-  - Área: 75.50 px²
-  - Perímetro: 33.90 px
+  - Ãrea: 75.50 pxÂ²
+  - PerÃ­metro: 33.90 px
   - Centroide: (233, 869)
 
 Contorno 67:
-  - Área: 46.50 px²
-  - Perímetro: 29.07 px
+  - Ãrea: 46.50 pxÂ²
+  - PerÃ­metro: 29.07 px
   - Centroide: (57, 859)
 
 Contorno 68:
-  - Área: 33.00 px²
-  - Perímetro: 24.83 px
+  - Ãrea: 33.00 pxÂ²
+  - PerÃ­metro: 24.83 px
   - Centroide: (339, 852)
 
 Contorno 69:
-  - Área: 235.50 px²
-  - Perímetro: 83.36 px
+  - Ãrea: 235.50 pxÂ²
+  - PerÃ­metro: 83.36 px
   - Centroide: (273, 854)
 
 Contorno 70:
-  - Área: 58.50 px²
-  - Perímetro: 33.90 px
+  - Ãrea: 58.50 pxÂ²
+  - PerÃ­metro: 33.90 px
   - Centroide: (245, 851)
 
 Contorno 71:
-  - Área: 82.50 px²
-  - Perímetro: 35.90 px
+  - Ãrea: 82.50 pxÂ²
+  - PerÃ­metro: 35.90 px
   - Centroide: (402, 846)
 
 Contorno 72:
-  - Área: 105.50 px²
-  - Perímetro: 41.21 px
+  - Ãrea: 105.50 pxÂ²
+  - PerÃ­metro: 41.21 px
   - Centroide: (931, 845)
 
 Contorno 73:
-  - Área: 162.00 px²
-  - Perímetro: 51.46 px
+  - Ãrea: 162.00 pxÂ²
+  - PerÃ­metro: 51.46 px
   - Centroide: (313, 830)
 
 Contorno 74:
-  - Área: 315.00 px²
-  - Perímetro: 73.11 px
+  - Ãrea: 315.00 pxÂ²
+  - PerÃ­metro: 73.11 px
   - Centroide: (283, 825)
 
 Contorno 75:
-  - Área: 131.50 px²
-  - Perímetro: 47.90 px
+  - Ãrea: 131.50 pxÂ²
+  - PerÃ­metro: 47.90 px
   - Centroide: (383, 818)
 
 Contorno 76:
-  - Área: 256.00 px²
-  - Perímetro: 64.63 px
+  - Ãrea: 256.00 pxÂ²
+  - PerÃ­metro: 64.63 px
   - Centroide: (240, 818)
 
 Contorno 77:
-  - Área: 268.00 px²
-  - Perímetro: 82.08 px
+  - Ãrea: 268.00 pxÂ²
+  - PerÃ­metro: 82.08 px
   - Centroide: (330, 799)
 
 Contorno 78:
-  - Área: 157.00 px²
-  - Perímetro: 48.97 px
+  - Ãrea: 157.00 pxÂ²
+  - PerÃ­metro: 48.97 px
   - Centroide: (211, 789)
 
 Contorno 79:
-  - Área: 29.00 px²
-  - Perímetro: 20.83 px
+  - Ãrea: 29.00 pxÂ²
+  - PerÃ­metro: 20.83 px
   - Centroide: (11, 781)
 
 Contorno 80:
-  - Área: 16.00 px²
-  - Perímetro: 16.00 px
+  - Ãrea: 16.00 pxÂ²
+  - PerÃ­metro: 16.00 px
   - Centroide: (367, 777)
 
 Contorno 81:
-  - Área: 192.00 px²
-  - Perímetro: 59.80 px
+  - Ãrea: 192.00 pxÂ²
+  - PerÃ­metro: 59.80 px
   - Centroide: (232, 772)
 
 Contorno 82:
-  - Área: 269.50 px²
-  - Perímetro: 78.18 px
+  - Ãrea: 269.50 pxÂ²
+  - PerÃ­metro: 78.18 px
   - Centroide: (347, 772)
 
 Contorno 83:
-  - Área: 90.00 px²
-  - Perímetro: 38.97 px
+  - Ãrea: 90.00 pxÂ²
+  - PerÃ­metro: 38.97 px
   - Centroide: (226, 754)
 
 Contorno 84:
-  - Área: 96.00 px²
-  - Perímetro: 38.14 px
+  - Ãrea: 96.00 pxÂ²
+  - PerÃ­metro: 38.14 px
   - Centroide: (184, 751)
 
 Contorno 85:
-  - Área: 32.50 px²
-  - Perímetro: 22.24 px
+  - Ãrea: 32.50 pxÂ²
+  - PerÃ­metro: 22.24 px
   - Centroide: (154, 726)
 
 Contorno 86:
-  - Área: 135.00 px²
-  - Perímetro: 45.31 px
+  - Ãrea: 135.00 pxÂ²
+  - PerÃ­metro: 45.31 px
   - Centroide: (385, 722)
 
 Contorno 87:
-  - Área: 308.50 px²
-  - Perímetro: 81.36 px
+  - Ãrea: 308.50 pxÂ²
+  - PerÃ­metro: 81.36 px
   - Centroide: (355, 727)
 
 Contorno 88:
-  - Área: 49.00 px²
-  - Perímetro: 26.49 px
+  - Ãrea: 49.00 pxÂ²
+  - PerÃ­metro: 26.49 px
   - Centroide: (242, 714)
 
 Contorno 89:
-  - Área: 9.00 px²
-  - Perímetro: 12.00 px
+  - Ãrea: 9.00 pxÂ²
+  - PerÃ­metro: 12.00 px
   - Centroide: (194, 699)
 
 Contorno 90:
-  - Área: 241.50 px²
-  - Perímetro: 62.53 px
+  - Ãrea: 241.50 pxÂ²
+  - PerÃ­metro: 62.53 px
   - Centroide: (307, 704)
 
 Contorno 91:
-  - Área: 136.00 px²
-  - Perímetro: 52.97 px
+  - Ãrea: 136.00 pxÂ²
+  - PerÃ­metro: 52.97 px
   - Centroide: (354, 686)
 
 Contorno 92:
-  - Área: 49.00 px²
-  - Perímetro: 29.31 px
+  - Ãrea: 49.00 pxÂ²
+  - PerÃ­metro: 29.31 px
   - Centroide: (207, 686)
 
 Contorno 93:
-  - Área: 32.00 px²
-  - Perímetro: 21.66 px
+  - Ãrea: 32.00 pxÂ²
+  - PerÃ­metro: 21.66 px
   - Centroide: (270, 682)
 
 Contorno 94:
-  - Área: 140.00 px²
-  - Perímetro: 57.46 px
+  - Ãrea: 140.00 pxÂ²
+  - PerÃ­metro: 57.46 px
   - Centroide: (397, 683)
 
 Contorno 95:
-  - Área: 205.00 px²
-  - Perímetro: 68.28 px
+  - Ãrea: 205.00 pxÂ²
+  - PerÃ­metro: 68.28 px
   - Centroide: (316, 680)
 
 Contorno 96:
-  - Área: 71.00 px²
-  - Perímetro: 32.49 px
+  - Ãrea: 71.00 pxÂ²
+  - PerÃ­metro: 32.49 px
   - Centroide: (240, 665)
 
 Contorno 97:
-  - Área: 92.50 px²
-  - Perímetro: 39.21 px
+  - Ãrea: 92.50 pxÂ²
+  - PerÃ­metro: 39.21 px
   - Centroide: (167, 665)
 
 Contorno 98:
-  - Área: 100.50 px²
-  - Perímetro: 38.73 px
+  - Ãrea: 100.50 pxÂ²
+  - PerÃ­metro: 38.73 px
   - Centroide: (401, 659)
 
 Contorno 99:
-  - Área: 106.00 px²
-  - Perímetro: 39.80 px
+  - Ãrea: 106.00 pxÂ²
+  - PerÃ­metro: 39.80 px
   - Centroide: (683, 659)
 
 Contorno 100:
-  - Área: 47.50 px²
-  - Perímetro: 26.24 px
+  - Ãrea: 47.50 pxÂ²
+  - PerÃ­metro: 26.24 px
   - Centroide: (366, 654)
 
 Contorno 101:
-  - Área: 262.50 px²
-  - Perímetro: 62.53 px
+  - Ãrea: 262.50 pxÂ²
+  - PerÃ­metro: 62.53 px
   - Centroide: (312, 657)
 
 Contorno 102:
-  - Área: 29.50 px²
-  - Perímetro: 21.07 px
+  - Ãrea: 29.50 pxÂ²
+  - PerÃ­metro: 21.07 px
   - Centroide: (748, 631)
 
 Contorno 103:
-  - Área: 717.00 px²
-  - Perímetro: 156.02 px
+  - Ãrea: 717.00 pxÂ²
+  - PerÃ­metro: 156.02 px
   - Centroide: (266, 648)
 
 Contorno 104:
-  - Área: 12.00 px²
-  - Perímetro: 14.00 px
+  - Ãrea: 12.00 pxÂ²
+  - PerÃ­metro: 14.00 px
   - Centroide: (138, 625)
 
 Contorno 105:
-  - Área: 284.50 px²
-  - Perímetro: 75.36 px
+  - Ãrea: 284.50 pxÂ²
+  - PerÃ­metro: 75.36 px
   - Centroide: (208, 620)
 
 Contorno 106:
-  - Área: 627.00 px²
-  - Perímetro: 122.37 px
+  - Ãrea: 627.00 pxÂ²
+  - PerÃ­metro: 122.37 px
   - Centroide: (306, 624)
 
 Contorno 107:
-  - Área: 59.00 px²
-  - Perímetro: 30.49 px
+  - Ãrea: 59.00 pxÂ²
+  - PerÃ­metro: 30.49 px
   - Centroide: (378, 604)
 
 Contorno 108:
-  - Área: 78.00 px²
-  - Perímetro: 36.97 px
+  - Ãrea: 78.00 pxÂ²
+  - PerÃ­metro: 36.97 px
   - Centroide: (243, 606)
 
 Contorno 109:
-  - Área: 31.50 px²
-  - Perímetro: 22.24 px
+  - Ãrea: 31.50 pxÂ²
+  - PerÃ­metro: 22.24 px
   - Centroide: (323, 596)
 
 Contorno 110:
-  - Área: 471.50 px²
-  - Perímetro: 100.67 px
+  - Ãrea: 471.50 pxÂ²
+  - PerÃ­metro: 100.67 px
   - Centroide: (406, 612)
 
 Contorno 111:
-  - Área: 65.50 px²
-  - Perímetro: 31.90 px
+  - Ãrea: 65.50 pxÂ²
+  - PerÃ­metro: 31.90 px
   - Centroide: (175, 589)
 
 Contorno 112:
-  - Área: 56.50 px²
-  - Perímetro: 29.90 px
+  - Ãrea: 56.50 pxÂ²
+  - PerÃ­metro: 29.90 px
   - Centroide: (409, 583)
 
 Contorno 113:
-  - Área: 166.50 px²
-  - Perímetro: 51.21 px
+  - Ãrea: 166.50 pxÂ²
+  - PerÃ­metro: 51.21 px
   - Centroide: (277, 585)
 
 Contorno 114:
-  - Área: 230.00 px²
-  - Perímetro: 84.91 px
+  - Ãrea: 230.00 pxÂ²
+  - PerÃ­metro: 84.91 px
   - Centroide: (380, 582)
 
 Contorno 115:
-  - Área: 188.00 px²
-  - Perímetro: 53.80 px
+  - Ãrea: 188.00 pxÂ²
+  - PerÃ­metro: 53.80 px
   - Centroide: (421, 564)
 
 Contorno 116:
-  - Área: 548.00 px²
-  - Perímetro: 118.77 px
+  - Ãrea: 548.00 pxÂ²
+  - PerÃ­metro: 118.77 px
   - Centroide: (351, 566)
 
 Contorno 117:
-  - Área: 158.50 px²
-  - Perímetro: 57.36 px
+  - Ãrea: 158.50 pxÂ²
+  - PerÃ­metro: 57.36 px
   - Centroide: (379, 555)
 
 Contorno 118:
-  - Área: 135.50 px²
-  - Perímetro: 44.38 px
+  - Ãrea: 135.50 pxÂ²
+  - PerÃ­metro: 44.38 px
   - Centroide: (437, 548)
 
 Contorno 119:
-  - Área: 9.00 px²
-  - Perímetro: 12.00 px
+  - Ãrea: 9.00 pxÂ²
+  - PerÃ­metro: 12.00 px
   - Centroide: (247, 537)
 
 Contorno 120:
-  - Área: 19.50 px²
-  - Perímetro: 17.41 px
+  - Ãrea: 19.50 pxÂ²
+  - PerÃ­metro: 17.41 px
   - Centroide: (267, 537)
 
 Contorno 121:
-  - Área: 512.50 px²
-  - Perímetro: 136.18 px
+  - Ãrea: 512.50 pxÂ²
+  - PerÃ­metro: 136.18 px
   - Centroide: (325, 538)
 
 Contorno 122:
-  - Área: 19.00 px²
-  - Perímetro: 16.83 px
+  - Ãrea: 19.00 pxÂ²
+  - PerÃ­metro: 16.83 px
   - Centroide: (363, 512)
 
 Contorno 123:
-  - Área: 152.50 px²
-  - Perímetro: 50.38 px
+  - Ãrea: 152.50 pxÂ²
+  - PerÃ­metro: 50.38 px
   - Centroide: (273, 514)
 
 Contorno 124:
-  - Área: 42.00 px²
-  - Perímetro: 25.66 px
+  - Ãrea: 42.00 pxÂ²
+  - PerÃ­metro: 25.66 px
   - Centroide: (381, 504)
 
 Contorno 125:
-  - Área: 844.00 px²
-  - Perímetro: 154.71 px
+  - Ãrea: 844.00 pxÂ²
+  - PerÃ­metro: 154.71 px
   - Centroide: (425, 513)
 
 Contorno 126:
-  - Área: 9.00 px²
-  - Perímetro: 12.00 px
+  - Ãrea: 9.00 pxÂ²
+  - PerÃ­metro: 12.00 px
   - Centroide: (250, 497)
 
 Contorno 127:
-  - Área: 32.00 px²
-  - Perímetro: 21.66 px
+  - Ãrea: 32.00 pxÂ²
+  - PerÃ­metro: 21.66 px
   - Centroide: (435, 488)
 
 Contorno 128:
-  - Área: 23.50 px²
-  - Perímetro: 19.41 px
+  - Ãrea: 23.50 pxÂ²
+  - PerÃ­metro: 19.41 px
   - Centroide: (376, 487)
 
 Contorno 129:
-  - Área: 341.50 px²
-  - Perímetro: 75.01 px
+  - Ãrea: 341.50 pxÂ²
+  - PerÃ­metro: 75.01 px
   - Centroide: (459, 494)
 
 Contorno 130:
-  - Área: 9.00 px²
-  - Perímetro: 12.00 px
+  - Ãrea: 9.00 pxÂ²
+  - PerÃ­metro: 12.00 px
   - Centroide: (253, 445)
 
 Contorno 131:
-  - Área: 289.00 px²
-  - Perímetro: 72.63 px
+  - Ãrea: 289.00 pxÂ²
+  - PerÃ­metro: 72.63 px
   - Centroide: (422, 440)
 
 Contorno 132:
-  - Área: 71.50 px²
-  - Perímetro: 31.90 px
+  - Ãrea: 71.50 pxÂ²
+  - PerÃ­metro: 31.90 px
   - Centroide: (44, 431)
 
 Contorno 133:
-  - Área: 176.50 px²
-  - Perímetro: 61.21 px
+  - Ãrea: 176.50 pxÂ²
+  - PerÃ­metro: 61.21 px
   - Centroide: (376, 434)
 
 Contorno 134:
-  - Área: 21.00 px²
-  - Perímetro: 18.83 px
+  - Ãrea: 21.00 pxÂ²
+  - PerÃ­metro: 18.83 px
   - Centroide: (362, 422)
 
 Contorno 135:
-  - Área: 244.50 px²
-  - Perímetro: 89.84 px
+  - Ãrea: 244.50 pxÂ²
+  - PerÃ­metro: 89.84 px
   - Centroide: (73, 425)
 
 Contorno 136:
-  - Área: 59.50 px²
-  - Perímetro: 30.73 px
+  - Ãrea: 59.50 pxÂ²
+  - PerÃ­metro: 30.73 px
   - Centroide: (33, 407)
 
 Contorno 137:
-  - Área: 175.00 px²
-  - Perímetro: 53.80 px
+  - Ãrea: 175.00 pxÂ²
+  - PerÃ­metro: 53.80 px
   - Centroide: (476, 406)
 
 Contorno 138:
-  - Área: 231.00 px²
-  - Perímetro: 61.46 px
+  - Ãrea: 231.00 pxÂ²
+  - PerÃ­metro: 61.46 px
   - Centroide: (217, 401)
 
 Contorno 139:
-  - Área: 81.50 px²
-  - Perímetro: 34.73 px
+  - Ãrea: 81.50 pxÂ²
+  - PerÃ­metro: 34.73 px
   - Centroide: (525, 387)
 
 Contorno 140:
-  - Área: 191.00 px²
-  - Perímetro: 61.80 px
+  - Ãrea: 191.00 pxÂ²
+  - PerÃ­metro: 61.80 px
   - Centroide: (22, 388)
 
 Contorno 141:
-  - Área: 665.50 px²
-  - Perímetro: 144.81 px
+  - Ãrea: 665.50 pxÂ²
+  - PerÃ­metro: 144.81 px
   - Centroide: (181, 389)
 
 Contorno 142:
-  - Área: 553.00 px²
-  - Perímetro: 97.25 px
+  - Ãrea: 553.00 pxÂ²
+  - PerÃ­metro: 97.25 px
   - Centroide: (415, 382)
 
 Contorno 143:
-  - Área: 342.00 px²
-  - Perímetro: 87.94 px
+  - Ãrea: 342.00 pxÂ²
+  - PerÃ­metro: 87.94 px
   - Centroide: (80, 377)
 
 Contorno 144:
-  - Área: 6.00 px²
-  - Perímetro: 10.00 px
+  - Ãrea: 6.00 pxÂ²
+  - PerÃ­metro: 10.00 px
   - Centroide: (412, 363)
 
 Contorno 145:
-  - Área: 35.50 px²
-  - Perímetro: 23.07 px
+  - Ãrea: 35.50 pxÂ²
+  - PerÃ­metro: 23.07 px
   - Centroide: (451, 361)
 
 Contorno 146:
-  - Área: 59.50 px²
-  - Perímetro: 28.73 px
+  - Ãrea: 59.50 pxÂ²
+  - PerÃ­metro: 28.73 px
   - Centroide: (119, 357)
 
 Contorno 147:
-  - Área: 289.50 px²
-  - Perímetro: 85.50 px
+  - Ãrea: 289.50 pxÂ²
+  - PerÃ­metro: 85.50 px
   - Centroide: (579, 363)
 
 Contorno 148:
-  - Área: 32.50 px²
-  - Perímetro: 22.24 px
+  - Ãrea: 32.50 pxÂ²
+  - PerÃ­metro: 22.24 px
   - Centroide: (274, 348)
 
 Contorno 149:
-  - Área: 42.50 px²
-  - Perímetro: 25.07 px
+  - Ãrea: 42.50 pxÂ²
+  - PerÃ­metro: 25.07 px
   - Centroide: (88, 349)
 
 Contorno 150:
-  - Área: 153.00 px²
-  - Perímetro: 49.80 px
+  - Ãrea: 153.00 pxÂ²
+  - PerÃ­metro: 49.80 px
   - Centroide: (476, 351)
 
 Contorno 151:
-  - Área: 21.50 px²
-  - Perímetro: 18.24 px
+  - Ãrea: 21.50 pxÂ²
+  - PerÃ­metro: 18.24 px
   - Centroide: (590, 346)
 
 Contorno 152:
-  - Área: 41.00 px²
-  - Perímetro: 25.66 px
+  - Ãrea: 41.00 pxÂ²
+  - PerÃ­metro: 25.66 px
   - Centroide: (78, 343)
 
 Contorno 153:
-  - Área: 27.50 px²
-  - Perímetro: 20.24 px
+  - Ãrea: 27.50 pxÂ²
+  - PerÃ­metro: 20.24 px
   - Centroide: (836, 340)
 
 Contorno 154:
-  - Área: 57.50 px²
-  - Perímetro: 29.90 px
+  - Ãrea: 57.50 pxÂ²
+  - PerÃ­metro: 29.90 px
   - Centroide: (327, 338)
 
 Contorno 155:
-  - Área: 146.50 px²
-  - Perímetro: 54.04 px
+  - Ãrea: 146.50 pxÂ²
+  - PerÃ­metro: 54.04 px
   - Centroide: (38, 343)
 
 Contorno 156:
-  - Área: 184.00 px²
-  - Perímetro: 77.80 px
+  - Ãrea: 184.00 pxÂ²
+  - PerÃ­metro: 77.80 px
   - Centroide: (526, 338)
 
 Contorno 157:
-  - Área: 124.50 px²
-  - Perímetro: 42.38 px
+  - Ãrea: 124.50 pxÂ²
+  - PerÃ­metro: 42.38 px
   - Centroide: (53, 333)
 
 Contorno 158:
-  - Área: 1190.00 px²
-  - Perímetro: 198.51 px
+  - Ãrea: 1190.00 pxÂ²
+  - PerÃ­metro: 198.51 px
   - Centroide: (244, 337)
 
 Contorno 159:
-  - Área: 43.00 px²
-  - Perímetro: 28.49 px
+  - Ãrea: 43.00 pxÂ²
+  - PerÃ­metro: 28.49 px
   - Centroide: (495, 322)
 
 Contorno 160:
-  - Área: 15.50 px²
-  - Perímetro: 15.41 px
+  - Ãrea: 15.50 pxÂ²
+  - PerÃ­metro: 15.41 px
   - Centroide: (169, 317)
 
 Contorno 161:
-  - Área: 149.00 px²
-  - Perímetro: 48.97 px
+  - Ãrea: 149.00 pxÂ²
+  - PerÃ­metro: 48.97 px
   - Centroide: (461, 316)
 
 Contorno 162:
-  - Área: 6.00 px²
-  - Perímetro: 10.00 px
+  - Ãrea: 6.00 pxÂ²
+  - PerÃ­metro: 10.00 px
   - Centroide: (619, 306)
 
 Contorno 163:
-  - Área: 2303.00 px²
-  - Perímetro: 353.56 px
+  - Ãrea: 2303.00 pxÂ²
+  - PerÃ­metro: 353.56 px
   - Centroide: (150, 332)
 
 Contorno 164:
-  - Área: 26.00 px²
-  - Perímetro: 19.66 px
+  - Ãrea: 26.00 pxÂ²
+  - PerÃ­metro: 19.66 px
   - Centroide: (71, 299)
 
 Contorno 165:
-  - Área: 27.00 px²
-  - Perímetro: 19.66 px
+  - Ãrea: 27.00 pxÂ²
+  - PerÃ­metro: 19.66 px
   - Centroide: (172, 298)
 
 Contorno 166:
-  - Área: 16.00 px²
-  - Perímetro: 16.00 px
+  - Ãrea: 16.00 pxÂ²
+  - PerÃ­metro: 16.00 px
   - Centroide: (487, 297)
 
 Contorno 167:
-  - Área: 87.50 px²
-  - Perímetro: 35.90 px
+  - Ãrea: 87.50 pxÂ²
+  - PerÃ­metro: 35.90 px
   - Centroide: (138, 298)
 
 Contorno 168:
-  - Área: 342.00 px²
-  - Perímetro: 87.25 px
+  - Ãrea: 342.00 pxÂ²
+  - PerÃ­metro: 87.25 px
   - Centroide: (414, 298)
 
 Contorno 169:
-  - Área: 56.00 px²
-  - Perímetro: 30.49 px
+  - Ãrea: 56.00 pxÂ²
+  - PerÃ­metro: 30.49 px
   - Centroide: (510, 285)
 
 Contorno 170:
-  - Área: 93.50 px²
-  - Perímetro: 47.56 px
+  - Ãrea: 93.50 pxÂ²
+  - PerÃ­metro: 47.56 px
   - Centroide: (484, 279)
 
 Contorno 171:
-  - Área: 182.50 px²
-  - Perímetro: 57.90 px
+  - Ãrea: 182.50 pxÂ²
+  - PerÃ­metro: 57.90 px
   - Centroide: (139, 281)
 
 Contorno 172:
-  - Área: 93.00 px²
-  - Perímetro: 40.97 px
+  - Ãrea: 93.00 pxÂ²
+  - PerÃ­metro: 40.97 px
   - Centroide: (98, 280)
 
 Contorno 173:
-  - Área: 711.50 px²
-  - Perímetro: 148.47 px
+  - Ãrea: 711.50 pxÂ²
+  - PerÃ­metro: 148.47 px
   - Centroide: (216, 296)
 
 Contorno 174:
-  - Área: 96.00 px²
-  - Perímetro: 42.14 px
+  - Ãrea: 96.00 pxÂ²
+  - PerÃ­metro: 42.14 px
   - Centroide: (161, 271)
 
 Contorno 175:
-  - Área: 121.50 px²
-  - Perímetro: 45.21 px
+  - Ãrea: 121.50 pxÂ²
+  - PerÃ­metro: 45.21 px
   - Centroide: (29, 269)
 
 Contorno 176:
-  - Área: 1023.50 px²
-  - Perímetro: 144.61 px
+  - Ãrea: 1023.50 pxÂ²
+  - PerÃ­metro: 144.61 px
   - Centroide: (381, 272)
 
 Contorno 177:
-  - Área: 26.00 px²
-  - Perímetro: 19.66 px
+  - Ãrea: 26.00 pxÂ²
+  - PerÃ­metro: 19.66 px
   - Centroide: (473, 253)
 
 Contorno 178:
-  - Área: 502.50 px²
-  - Perímetro: 100.33 px
+  - Ãrea: 502.50 pxÂ²
+  - PerÃ­metro: 100.33 px
   - Centroide: (513, 261)
 
 Contorno 179:
-  - Área: 15.00 px²
-  - Perímetro: 14.83 px
+  - Ãrea: 15.00 pxÂ²
+  - PerÃ­metro: 14.83 px
   - Centroide: (47, 242)
 
 Contorno 180:
-  - Área: 23.00 px²
-  - Perímetro: 17.66 px
+  - Ãrea: 23.00 pxÂ²
+  - PerÃ­metro: 17.66 px
   - Centroide: (299, 241)
 
 Contorno 181:
-  - Área: 105.50 px²
-  - Perímetro: 43.21 px
+  - Ãrea: 105.50 pxÂ²
+  - PerÃ­metro: 43.21 px
   - Centroide: (486, 241)
 
 Contorno 182:
-  - Área: 172.50 px²
-  - Perímetro: 52.38 px
+  - Ãrea: 172.50 pxÂ²
+  - PerÃ­metro: 52.38 px
   - Centroide: (369, 237)
 
 Contorno 183:
-  - Área: 116.50 px²
-  - Perímetro: 40.73 px
+  - Ãrea: 116.50 pxÂ²
+  - PerÃ­metro: 40.73 px
   - Centroide: (581, 233)
 
 Contorno 184:
-  - Área: 409.50 px²
-  - Perímetro: 88.67 px
+  - Ãrea: 409.50 pxÂ²
+  - PerÃ­metro: 88.67 px
   - Centroide: (231, 230)
 
 Contorno 185:
-  - Área: 50.00 px²
-  - Perímetro: 29.66 px
+  - Ãrea: 50.00 pxÂ²
+  - PerÃ­metro: 29.66 px
   - Centroide: (364, 220)
 
 Contorno 186:
-  - Área: 76.50 px²
-  - Perímetro: 33.56 px
+  - Ãrea: 76.50 pxÂ²
+  - PerÃ­metro: 33.56 px
   - Centroide: (469, 216)
 
 Contorno 187:
-  - Área: 12.00 px²
-  - Perímetro: 14.00 px
+  - Ãrea: 12.00 pxÂ²
+  - PerÃ­metro: 14.00 px
   - Centroide: (65, 211)
 
 Contorno 188:
-  - Área: 26.50 px²
-  - Perímetro: 19.07 px
+  - Ãrea: 26.50 pxÂ²
+  - PerÃ­metro: 19.07 px
   - Centroide: (227, 211)
 
 Contorno 189:
-  - Área: 118.50 px²
-  - Perímetro: 42.73 px
+  - Ãrea: 118.50 pxÂ²
+  - PerÃ­metro: 42.73 px
   - Centroide: (110, 215)
 
 Contorno 190:
-  - Área: 76.00 px²
-  - Perímetro: 33.31 px
+  - Ãrea: 76.00 pxÂ²
+  - PerÃ­metro: 33.31 px
   - Centroide: (484, 210)
 
 Contorno 191:
-  - Área: 171.50 px²
-  - Perímetro: 56.73 px
+  - Ãrea: 171.50 pxÂ²
+  - PerÃ­metro: 56.73 px
   - Centroide: (30, 206)
 
 Contorno 192:
-  - Área: 130.50 px²
-  - Perímetro: 44.38 px
+  - Ãrea: 130.50 pxÂ²
+  - PerÃ­metro: 44.38 px
   - Centroide: (168, 203)
 
 Contorno 193:
-  - Área: 93.50 px²
-  - Perímetro: 37.56 px
+  - Ãrea: 93.50 pxÂ²
+  - PerÃ­metro: 37.56 px
   - Centroide: (425, 195)
 
 Contorno 194:
-  - Área: 31.50 px²
-  - Perímetro: 22.24 px
+  - Ãrea: 31.50 pxÂ²
+  - PerÃ­metro: 22.24 px
   - Centroide: (106, 193)
 
 Contorno 195:
-  - Área: 66.50 px²
-  - Perímetro: 43.90 px
+  - Ãrea: 66.50 pxÂ²
+  - PerÃ­metro: 43.90 px
   - Centroide: (16, 194)
 
 Contorno 196:
-  - Área: 92.50 px²
-  - Perímetro: 42.73 px
+  - Ãrea: 92.50 pxÂ²
+  - PerÃ­metro: 42.73 px
   - Centroide: (449, 194)
 
 Contorno 197:
-  - Área: 225.50 px²
-  - Perímetro: 68.87 px
+  - Ãrea: 225.50 pxÂ²
+  - PerÃ­metro: 68.87 px
   - Centroide: (188, 198)
 
 Contorno 198:
-  - Área: 181.00 px²
-  - Perímetro: 65.11 px
+  - Ãrea: 181.00 pxÂ²
+  - PerÃ­metro: 65.11 px
   - Centroide: (73, 193)
 
 Contorno 199:
-  - Área: 78.00 px²
-  - Perímetro: 36.49 px
+  - Ãrea: 78.00 pxÂ²
+  - PerÃ­metro: 36.49 px
   - Centroide: (600, 181)
 
 Contorno 200:
-  - Área: 167.50 px²
-  - Perímetro: 64.87 px
+  - Ãrea: 167.50 pxÂ²
+  - PerÃ­metro: 64.87 px
   - Centroide: (164, 184)
 
 Contorno 201:
-  - Área: 58.50 px²
-  - Perímetro: 29.90 px
+  - Ãrea: 58.50 pxÂ²
+  - PerÃ­metro: 29.90 px
   - Centroide: (435, 175)
 
 Contorno 202:
-  - Área: 70.00 px²
-  - Perímetro: 34.49 px
+  - Ãrea: 70.00 pxÂ²
+  - PerÃ­metro: 34.49 px
   - Centroide: (51, 175)
 
 Contorno 203:
-  - Área: 37.50 px²
-  - Perímetro: 24.24 px
+  - Ãrea: 37.50 pxÂ²
+  - PerÃ­metro: 24.24 px
   - Centroide: (28, 172)
 
 Contorno 204:
-  - Área: 109.50 px²
-  - Perímetro: 40.38 px
+  - Ãrea: 109.50 pxÂ²
+  - PerÃ­metro: 40.38 px
   - Centroide: (99, 166)
 
 Contorno 205:
-  - Área: 10831.50 px²
-  - Perímetro: 1396.72 px
+  - Ãrea: 10831.50 pxÂ²
+  - PerÃ­metro: 1396.72 px
   - Centroide: (310, 262)
 
 Contorno 206:
-  - Área: 44.00 px²
-  - Perímetro: 60.63 px
+  - Ãrea: 44.00 pxÂ²
+  - PerÃ­metro: 60.63 px
   - Centroide: (6, 161)
 
 Contorno 207:
-  - Área: 14.00 px²
-  - Perímetro: 14.83 px
+  - Ãrea: 14.00 pxÂ²
+  - PerÃ­metro: 14.83 px
   - Centroide: (317, 142)
 
 Contorno 208:
-  - Área: 62.00 px²
-  - Perímetro: 32.49 px
+  - Ãrea: 62.00 pxÂ²
+  - PerÃ­metro: 32.49 px
   - Centroide: (124, 138)
 
 Contorno 209:
-  - Área: 19.50 px²
-  - Perímetro: 17.41 px
+  - Ãrea: 19.50 pxÂ²
+  - PerÃ­metro: 17.41 px
   - Centroide: (151, 127)
 
 Contorno 210:
-  - Área: 232.50 px²
-  - Perímetro: 60.87 px
+  - Ãrea: 232.50 pxÂ²
+  - PerÃ­metro: 60.87 px
   - Centroide: (295, 116)
 
 Contorno 211:
-  - Área: 19.50 px²
-  - Perímetro: 17.41 px
+  - Ãrea: 19.50 pxÂ²
+  - PerÃ­metro: 17.41 px
   - Centroide: (151, 107)
 
 Contorno 212:
-  - Área: 215.50 px²
-  - Perímetro: 71.70 px
+  - Ãrea: 215.50 pxÂ²
+  - PerÃ­metro: 71.70 px
   - Centroide: (124, 117)
 
 Contorno 213:
-  - Área: 220.00 px²
-  - Perímetro: 57.46 px
+  - Ãrea: 220.00 pxÂ²
+  - PerÃ­metro: 57.46 px
   - Centroide: (100, 113)
 
 Contorno 214:
-  - Área: 126.00 px²
-  - Perímetro: 42.63 px
+  - Ãrea: 126.00 pxÂ²
+  - PerÃ­metro: 42.63 px
   - Centroide: (252, 108)
 
 Contorno 215:
-  - Área: 715.50 px²
-  - Perímetro: 157.30 px
+  - Ãrea: 715.50 pxÂ²
+  - PerÃ­metro: 157.30 px
   - Centroide: (62, 123)
 
 Contorno 216:
-  - Área: 119.00 px²
-  - Perímetro: 44.97 px
+  - Ãrea: 119.00 pxÂ²
+  - PerÃ­metro: 44.97 px
   - Centroide: (305, 95)
 
 Contorno 217:
-  - Área: 41.00 px²
-  - Perímetro: 25.66 px
+  - Ãrea: 41.00 pxÂ²
+  - PerÃ­metro: 25.66 px
   - Centroide: (440, 89)
 
 Contorno 218:
-  - Área: 19.00 px²
-  - Perímetro: 16.83 px
+  - Ãrea: 19.00 pxÂ²
+  - PerÃ­metro: 16.83 px
   - Centroide: (8, 88)
 
 Contorno 219:
-  - Área: 234.50 px²
-  - Perímetro: 61.21 px
+  - Ãrea: 234.50 pxÂ²
+  - PerÃ­metro: 61.21 px
   - Centroide: (178, 87)
 
 Contorno 220:
-  - Área: 48.00 px²
-  - Perímetro: 26.49 px
+  - Ãrea: 48.00 pxÂ²
+  - PerÃ­metro: 26.49 px
   - Centroide: (214, 80)
 
 Contorno 221:
-  - Área: 77.50 px²
-  - Perímetro: 32.73 px
+  - Ãrea: 77.50 pxÂ²
+  - PerÃ­metro: 32.73 px
   - Centroide: (375, 65)
 
 Contorno 222:
-  - Área: 26.00 px²
-  - Perímetro: 19.66 px
+  - Ãrea: 26.00 pxÂ²
+  - PerÃ­metro: 19.66 px
   - Centroide: (324, 61)
 
 Contorno 223:
-  - Área: 191.00 px²
-  - Perímetro: 57.80 px
+  - Ãrea: 191.00 pxÂ²
+  - PerÃ­metro: 57.80 px
   - Centroide: (59, 43)
 
 Contorno 224:
-  - Área: 30.00 px²
-  - Perímetro: 21.66 px
+  - Ãrea: 30.00 pxÂ²
+  - PerÃ­metro: 21.66 px
   - Centroide: (364, 36)
 
 Contorno 225:
-  - Área: 194.00 px²
-  - Perímetro: 57.46 px
+  - Ãrea: 194.00 pxÂ²
+  - PerÃ­metro: 57.46 px
   - Centroide: (281, 34)
 
 Contorno 226:
-  - Área: 105.50 px²
-  - Perímetro: 42.73 px
+  - Ãrea: 105.50 pxÂ²
+  - PerÃ­metro: 42.73 px
   - Centroide: (223, 29)
 
 Contorno 227:
-  - Área: 2475.50 px²
-  - Perímetro: 632.26 px
+  - Ãrea: 2475.50 pxÂ²
+  - PerÃ­metro: 632.26 px
   - Centroide: (61, 66)
 
 Contorno 228:
-  - Área: 49.00 px²
-  - Perímetro: 80.97 px
+  - Ãrea: 49.00 pxÂ²
+  - PerÃ­metro: 80.97 px
   - Centroide: (548, 3)
 
 Contorno 229:
-  - Área: 12221.00 px²
-  - Perímetro: 13775.01 px
+  - Ãrea: 12221.00 pxÂ²
+  - PerÃ­metro: 13775.01 px
   - Centroide: (765, 438)
 

@@ -1,0 +1,13 @@
+=== Métricas de contornos - img10 ===
+Número de contornos encontrados: 2
+
+Contorno 1:
+  - Área: 904.50 px²
+  - Perímetro: 288.43 px
+  - Centroide: (122, 63)
+
+Contorno 2:
+  - Área: 1298.00 px²
+  - Perímetro: 393.59 px
+  - Centroide: (43, 45)
+
