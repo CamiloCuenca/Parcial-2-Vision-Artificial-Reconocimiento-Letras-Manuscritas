@@ -1,9 +1,0 @@
-===== MOMENTOS DE HU =====
-Momento Hu 1: 8.778343e-04
-Momento Hu 2: 2.016040e-08
-Momento Hu 3: 7.073231e-14
-Momento Hu 4: 2.602382e-13
-Momento Hu 5: 4.737947e-27
-Momento Hu 6: -1.432525e-17
-Momento Hu 7: -3.498803e-26
-==========================

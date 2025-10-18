@@ -5,271 +5,331 @@ Original vs Preprocesada
 
 
 ================================================================================
-Imagen: img1
+Imagen: 1
 ================================================================================
 
 AKAZE:
-  Original: 33 puntos (0.0110s)
-  Preprocesada: 37 puntos (0.0044s)
-  Mejora: 12.1%
+  Original: 183 puntos (0.1359s)
+  Preprocesada: 369 puntos (0.0784s)
+  Mejora: 101.6%
 
 SIFT:
-  Original: 88 puntos (0.0109s)
-  Preprocesada: 58 puntos (0.0105s)
-  Mejora: -34.1%
+  Original: 128 puntos (0.0996s)
+  Preprocesada: 64 puntos (0.0798s)
+  Mejora: -50.0%
 
 ORB:
-  Original: 115 puntos (0.0021s)
-  Preprocesada: 56 puntos (0.0016s)
-  Mejora: -51.3%
+  Original: 446 puntos (0.3853s)
+  Preprocesada: 471 puntos (0.0118s)
+  Mejora: 5.6%
 
 HOG:
-  Original: 8100 features (0.0743s)
-  Preprocesada: 8100 features (0.0536s)
+  Original: 8100 features (1.5731s)
+  Preprocesada: 8100 features (0.0860s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=2.47 (0.0227s)
+  Preprocesada: varianza=43.84 (0.0073s)
+  Mejora: 1672.1%
 
 Momentos de Hu:
-  Diferencia promedio: 4.462129e-07
+  Diferencia promedio: 3.003787e-07
 
 
 ================================================================================
-Imagen: img2
+Imagen: 2
 ================================================================================
 
 AKAZE:
-  Original: 14 puntos (0.0017s)
-  Preprocesada: 24 puntos (0.0014s)
-  Mejora: 71.4%
+  Original: 318 puntos (0.3219s)
+  Preprocesada: 627 puntos (0.1652s)
+  Mejora: 97.2%
 
 SIFT:
-  Original: 73 puntos (0.0035s)
-  Preprocesada: 43 puntos (0.0039s)
-  Mejora: -41.1%
+  Original: 88 puntos (0.1731s)
+  Preprocesada: 96 puntos (0.1923s)
+  Mejora: 9.1%
 
 ORB:
-  Original: 62 puntos (0.0011s)
-  Preprocesada: 11 puntos (0.0008s)
-  Mejora: -82.3%
+  Original: 297 puntos (0.0141s)
+  Preprocesada: 468 puntos (0.0172s)
+  Mejora: 57.6%
 
 HOG:
-  Original: 8100 features (0.0459s)
-  Preprocesada: 8100 features (0.0426s)
+  Original: 8100 features (0.0952s)
+  Preprocesada: 8100 features (0.1216s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=1.23 (0.0178s)
+  Preprocesada: varianza=25.89 (0.0243s)
+  Mejora: 2009.8%
 
 Momentos de Hu:
-  Diferencia promedio: 1.853824e-07
+  Diferencia promedio: 1.910856e-07
 
 
 ================================================================================
-Imagen: img3
+Imagen: 3
 ================================================================================
 
 AKAZE:
-  Original: 1 puntos (0.3464s)
-  Preprocesada: 2760 puntos (0.2971s)
-  Mejora: 275900.0%
+  Original: 420 puntos (0.3470s)
+  Preprocesada: 769 puntos (0.4591s)
+  Mejora: 83.1%
 
 SIFT:
-  Original: 12 puntos (0.5782s)
-  Preprocesada: 1289 puntos (0.6064s)
-  Mejora: 10641.7%
+  Original: 265 puntos (0.5133s)
+  Preprocesada: 120 puntos (0.3779s)
+  Mejora: -54.7%
 
 ORB:
-  Original: 0 puntos (0.0076s)
-  Preprocesada: 500 puntos (0.0310s)
-  Mejora: 50000.0%
+  Original: 500 puntos (0.0180s)
+  Preprocesada: 500 puntos (0.0242s)
+  Mejora: 0.0%
 
 HOG:
-  Original: 8100 features (0.0439s)
-  Preprocesada: 8100 features (0.0407s)
+  Original: 8100 features (0.0508s)
+  Preprocesada: 8100 features (0.1015s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=1.52 (0.0500s)
+  Preprocesada: varianza=16.23 (0.0199s)
+  Mejora: 968.3%
 
 Momentos de Hu:
-  Diferencia promedio: 5.217804e-08
+  Diferencia promedio: 8.530992e-08
 
 
 ================================================================================
-Imagen: img4
+Imagen: 4
 ================================================================================
 
 AKAZE:
-  Original: 0 puntos (0.3126s)
-  Preprocesada: 3318 puntos (0.4059s)
-  Mejora: 331800.0%
+  Original: 154 puntos (0.0663s)
+  Preprocesada: 392 puntos (0.0662s)
+  Mejora: 154.5%
 
 SIFT:
-  Original: 7 puntos (0.5331s)
-  Preprocesada: 1758 puntos (0.4214s)
-  Mejora: 25014.3%
+  Original: 58 puntos (0.0982s)
+  Preprocesada: 58 puntos (0.1233s)
+  Mejora: 0.0%
 
 ORB:
-  Original: 1 puntos (0.0146s)
-  Preprocesada: 500 puntos (0.0236s)
-  Mejora: 49900.0%
+  Original: 207 puntos (0.0114s)
+  Preprocesada: 431 puntos (0.0126s)
+  Mejora: 108.2%
 
 HOG:
-  Original: 8100 features (0.0413s)
-  Preprocesada: 8100 features (0.0626s)
+  Original: 8100 features (0.0994s)
+  Preprocesada: 8100 features (0.0980s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=1.56 (0.0065s)
+  Preprocesada: varianza=40.66 (0.0071s)
+  Mejora: 2503.5%
 
 Momentos de Hu:
-  Diferencia promedio: 9.349549e-07
+  Diferencia promedio: 1.622018e-07
 
 
 ================================================================================
-Imagen: img5
+Imagen: 5
 ================================================================================
 
 AKAZE:
-  Original: 127 puntos (0.2925s)
-  Preprocesada: 671 puntos (0.2926s)
-  Mejora: 428.3%
+  Original: 259 puntos (0.1504s)
+  Preprocesada: 592 puntos (0.1825s)
+  Mejora: 128.6%
 
 SIFT:
-  Original: 16 puntos (0.7590s)
-  Preprocesada: 73 puntos (0.5029s)
-  Mejora: 356.2%
+  Original: 108 puntos (0.2465s)
+  Preprocesada: 134 puntos (0.1967s)
+  Mejora: 24.1%
 
 ORB:
-  Original: 22 puntos (0.0303s)
-  Preprocesada: 437 puntos (0.0252s)
-  Mejora: 1886.4%
+  Original: 307 puntos (0.0100s)
+  Preprocesada: 467 puntos (0.0131s)
+  Mejora: 52.1%
 
 HOG:
-  Original: 8100 features (0.0562s)
-  Preprocesada: 8100 features (0.0481s)
+  Original: 8100 features (0.0757s)
+  Preprocesada: 8100 features (0.0537s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=1.33 (0.0133s)
+  Preprocesada: varianza=31.96 (0.0121s)
+  Mejora: 2309.6%
 
 Momentos de Hu:
-  Diferencia promedio: 3.420371e-08
+  Diferencia promedio: 1.613319e-07
 
 
 ================================================================================
-Imagen: img6
+Imagen: 6
 ================================================================================
 
 AKAZE:
-  Original: 86 puntos (0.1796s)
-  Preprocesada: 648 puntos (0.2015s)
-  Mejora: 653.5%
+  Original: 506 puntos (0.2874s)
+  Preprocesada: 697 puntos (0.2829s)
+  Mejora: 37.7%
 
 SIFT:
-  Original: 29 puntos (0.4726s)
-  Preprocesada: 92 puntos (0.3997s)
-  Mejora: 217.2%
+  Original: 710 puntos (0.3699s)
+  Preprocesada: 157 puntos (0.3058s)
+  Mejora: -77.9%
 
 ORB:
-  Original: 10 puntos (0.0129s)
-  Preprocesada: 431 puntos (0.0142s)
-  Mejora: 4210.0%
+  Original: 491 puntos (0.0190s)
+  Preprocesada: 500 puntos (0.0158s)
+  Mejora: 1.8%
 
 HOG:
-  Original: 8100 features (0.0429s)
-  Preprocesada: 8100 features (0.0320s)
+  Original: 8100 features (0.0683s)
+  Preprocesada: 8100 features (0.0758s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=3.64 (0.0185s)
+  Preprocesada: varianza=21.01 (0.0297s)
+  Mejora: 477.1%
 
 Momentos de Hu:
-  Diferencia promedio: 3.674738e-08
+  Diferencia promedio: 1.425192e-07
 
 
 ================================================================================
-Imagen: img7
+Imagen: 7
 ================================================================================
 
 AKAZE:
-  Original: 119 puntos (0.2627s)
-  Preprocesada: 718 puntos (0.2738s)
+  Original: 435 puntos (0.2058s)
+  Preprocesada: 517 puntos (0.2062s)
+  Mejora: 18.9%
+
+SIFT:
+  Original: 526 puntos (0.4772s)
+  Preprocesada: 124 puntos (0.3249s)
+  Mejora: -76.4%
+
+ORB:
+  Original: 500 puntos (0.0204s)
+  Preprocesada: 500 puntos (0.0145s)
+  Mejora: 0.0%
+
+HOG:
+  Original: 8100 features (0.0732s)
+  Preprocesada: 8100 features (0.0629s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=3.34 (0.0174s)
+  Preprocesada: varianza=17.99 (0.0162s)
+  Mejora: 438.2%
+
+Momentos de Hu:
+  Diferencia promedio: 1.079011e-07
+
+
+================================================================================
+Imagen: 8
+================================================================================
+
+AKAZE:
+  Original: 780 puntos (0.3145s)
+  Preprocesada: 747 puntos (0.3696s)
+  Mejora: -4.2%
+
+SIFT:
+  Original: 1357 puntos (0.5338s)
+  Preprocesada: 211 puntos (0.5572s)
+  Mejora: -84.5%
+
+ORB:
+  Original: 500 puntos (0.0975s)
+  Preprocesada: 500 puntos (0.0327s)
+  Mejora: 0.0%
+
+HOG:
+  Original: 8100 features (0.0923s)
+  Preprocesada: 8100 features (0.0618s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=4.84 (0.0206s)
+  Preprocesada: varianza=15.87 (0.0180s)
+  Mejora: 227.5%
+
+Momentos de Hu:
+  Diferencia promedio: 1.780189e-07
+
+
+================================================================================
+Imagen: 9
+================================================================================
+
+AKAZE:
+  Original: 564 puntos (0.3131s)
+  Preprocesada: 609 puntos (0.2853s)
+  Mejora: 8.0%
+
+SIFT:
+  Original: 811 puntos (0.2166s)
+  Preprocesada: 173 puntos (0.2122s)
+  Mejora: -78.7%
+
+ORB:
+  Original: 500 puntos (0.0243s)
+  Preprocesada: 500 puntos (0.0216s)
+  Mejora: 0.0%
+
+HOG:
+  Original: 8100 features (0.1046s)
+  Preprocesada: 8100 features (0.0852s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=5.59 (0.0115s)
+  Preprocesada: varianza=27.66 (0.0098s)
+  Mejora: 394.7%
+
+Momentos de Hu:
+  Diferencia promedio: 9.618868e-08
+
+
+================================================================================
+Imagen: 10
+================================================================================
+
+AKAZE:
+  Original: 119 puntos (0.5453s)
+  Preprocesada: 718 puntos (0.7849s)
   Mejora: 503.4%
 
 SIFT:
-  Original: 29 puntos (0.6270s)
-  Preprocesada: 86 puntos (0.4910s)
+  Original: 29 puntos (0.9339s)
+  Preprocesada: 86 puntos (0.6988s)
   Mejora: 196.6%
 
 ORB:
-  Original: 6 puntos (0.0221s)
-  Preprocesada: 450 puntos (0.0266s)
+  Original: 6 puntos (0.0444s)
+  Preprocesada: 450 puntos (0.0248s)
   Mejora: 7400.0%
 
 HOG:
-  Original: 8100 features (0.0407s)
-  Preprocesada: 8100 features (0.0362s)
+  Original: 8100 features (0.1054s)
+  Preprocesada: 8100 features (0.1165s)
+  Mejora: 0.0%
+
+Laplaciano de Gauss:
+  Original: varianza=0.61 (0.0408s)
+  Preprocesada: varianza=8.77 (0.0315s)
+  Mejora: 815.8%
 
 Momentos de Hu:
   Diferencia promedio: 1.025604e-07
-
-
-================================================================================
-Imagen: img8
-================================================================================
-
-AKAZE:
-  Original: 33 puntos (0.0028s)
-  Preprocesada: 59 puntos (0.0055s)
-  Mejora: 78.8%
-
-SIFT:
-  Original: 33 puntos (0.0045s)
-  Preprocesada: 50 puntos (0.0051s)
-  Mejora: 51.5%
-
-ORB:
-  Original: 49 puntos (0.0011s)
-  Preprocesada: 28 puntos (0.0010s)
-  Mejora: -42.9%
-
-HOG:
-  Original: 8100 features (0.0266s)
-  Preprocesada: 8100 features (0.0293s)
-
-Momentos de Hu:
-  Diferencia promedio: 1.504639e-06
-
-
-================================================================================
-Imagen: img9
-================================================================================
-
-AKAZE:
-  Original: 16 puntos (0.0035s)
-  Preprocesada: 18 puntos (0.0026s)
-  Mejora: 12.5%
-
-SIFT:
-  Original: 157 puntos (0.0044s)
-  Preprocesada: 113 puntos (0.0049s)
-  Mejora: -28.0%
-
-ORB:
-  Original: 23 puntos (0.0019s)
-  Preprocesada: 4 puntos (0.0009s)
-  Mejora: -82.6%
-
-HOG:
-  Original: 8100 features (0.0320s)
-  Preprocesada: 8100 features (0.0308s)
-
-Momentos de Hu:
-  Diferencia promedio: 7.589956e-06
-
-
-================================================================================
-Imagen: img10
-================================================================================
-
-AKAZE:
-  Original: 22 puntos (0.0023s)
-  Preprocesada: 20 puntos (0.0016s)
-  Mejora: -9.1%
-
-SIFT:
-  Original: 88 puntos (0.0032s)
-  Preprocesada: 60 puntos (0.0031s)
-  Mejora: -31.8%
-
-ORB:
-  Original: 45 puntos (0.0013s)
-  Preprocesada: 17 puntos (0.0011s)
-  Mejora: -62.2%
-
-HOG:
-  Original: 8100 features (0.0477s)
-  Preprocesada: 8100 features (0.0327s)
-
-Momentos de Hu:
-  Diferencia promedio: 3.008857e-06
 
